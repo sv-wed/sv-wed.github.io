@@ -215,7 +215,7 @@
 
 	function askPassword() {
 		Swal.fire({
-			title: 'Surendra & Veenu',
+			title: 'Om Ganeshaay Namah:',
 			//input: 'password',
 			imageUrl: 'images/d4.png',
 			height: '100%',
