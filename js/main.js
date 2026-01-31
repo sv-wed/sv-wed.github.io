@@ -215,7 +215,7 @@
 
 	function askPassword() {
 		Swal.fire({
-			title: 'Barkha & Suryansh',
+			title: 'Surendra & Veenu',
 			//input: 'password',
 			imageUrl: 'images/d4.png',
 			height: '100%',
