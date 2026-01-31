@@ -1,7 +1,7 @@
 /*!
  * Project : simply-countdown
  * File : simplyCountdown
- * Date : 27/06/2015
+ * Date : 10/02/2026
  * License : MIT
  * Version : 1.3.2
  * Author : Vincent Loy <vincent.loy1@gmail.com>
@@ -115,10 +115,10 @@
      */
     simplyCountdown = function (elt, args) {
         var parameters = extend({
-                year: 2015,
-                month: 6,
-                day: 28,
-                hours: 0,
+                year: 2026,
+                month: 2,
+                day: 10,
+                hours: 11,
                 minutes: 0,
                 seconds: 0,
                 words: {
@@ -283,3 +283,4 @@ if (window.jQuery) {
         };
     }(jQuery, simplyCountdown));
 }
+
