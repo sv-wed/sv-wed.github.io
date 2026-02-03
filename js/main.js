@@ -232,6 +232,12 @@
 			onClose: function () {
 				//if (Swal.getInput().value.toLowerCase() != "love") askPassword();
 				playMusic();
+				confetti({
+  particleCount: 100,
+  spread: 70,
+  origin: { y: 0.6 },
+});
+
 			}
 		})
 	}
